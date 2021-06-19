@@ -1,9 +1,11 @@
 # Lab1Web
-Tugas Pemrograman Web
-
-Nama  : Wahyudi Hermawan
-NIM   : 311910106
-Kelas : TI.19.B1
+```bash
+Nama      : Robi Abda'u
+NIM       : 311910563
+Kelas     : TI.19.B1
+M. Kuliah : Pemograman Web
+Dosen     : Agung Nugroho,S.Kom.,M.Kom
+```
 
 Jawaban :
 1. Jika ada kesalahan penulisan pada tag tentu saja HTML tidak akan mengenali tag tersebut sehingga teks tersebut tidak adak dimunculkan misalnya ketika kita melakukan kesalahan penulisan pada "title" menjadi "titel" maka judul tidak akan dimunculkan sesuai dengan apa yang kita inginkan melainkan akan memunculkan nama file html kita. 
