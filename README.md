@@ -25,8 +25,3 @@ Contoh penggunaan alt : ![image](https://user-images.githubusercontent.com/81253
 Contoh jika kita hanya mengisi salah satu : ![image](https://user-images.githubusercontent.com/81253746/112322958-edcc8300-8ce3-11eb-9bca-ee3117b028e0.png)
 Contoh jika kita mengisi keduanya dengan rasio yang berbeda dengan gambar aslinya : ![image](https://user-images.githubusercontent.com/81253746/112323139-148ab980-8ce4-11eb-8a42-293f141ba0f9.png)
 
-5. Jika pada link kita menambahkan atribut target dengan nilai atribut :
-_blank : Maka kita akan membuka dokumen atau link tertaut dijendela atau tab baru. contohnya : ![image](https://user-images.githubusercontent.com/81253746/112324928-d68e9500-8ce5-11eb-9d36-9b2befdb43b1.png)
-_Self : Maka kita akan membuka dokumen atau link tertaut pada jendela atau tab yang sama. Contohnya : ![image](https://user-images.githubusercontent.com/81253746/112325210-12295f00-8ce6-11eb-89f5-f61951663f2d.png)
-_top : Maka kita akan membuka dokumen atau link tertaut pada seluruh halaman jendela. Contohnya : ![image](https://user-images.githubusercontent.com/81253746/112326300-fd010000-8ce6-11eb-84da-5a710db32d8e.png)
-_parent : Maka kita akan membuka dokumen atau link tertaut di jendela induk. Contohnya : ![image](https://user-images.githubusercontent.com/81253746/112326434-199d3800-8ce7-11eb-94b9-a57fba0c18f4.png)
